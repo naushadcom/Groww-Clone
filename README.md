@@ -6,25 +6,18 @@
 
 <h1>Groww Clone</h1>
  <h2>Landing Page</h2>
-    <img src="ScreenShots/HOMEPAGE.png" alt="">
+    <img src="https://github.com/naushadcom/Groww-Clone/blob/main/pic/Screenshot%20(1112).png" alt="">
   <h2>Login Page</h2>
-    <img src="ScreenShots/LOGIN_PAGE.png" alt="">
+    <img src="https://github.com/naushadcom/Groww-Clone/blob/main/pic/Screenshot%20(1113).png" alt="">
        <h2>Dashboard</h2>
-    <img src="ScreenShots/DASHBOARD.png" alt="">
-        <h2>Products-Page</h2>
-    <img src="ScreenShots/PRODUCTSPAGE.png" alt="">
-      <h2>Products-Description page</h2>
-    <img src="ScreenShots/DESCRIPTION_PAGE.png" alt="">
-       <h2>Cart-Page</h2>
-    <img src="ScreenShots/CART_PAGE.png" alt="">
-        <h2>Payment-Page</h2>
-    <img src="ScreenShots/PAYMENT_PAGE.png" alt="">
+    <img src="https://github.com/naushadcom/Groww-Clone/blob/main/pic/Screenshot%20(1114).png" alt="">
+   
     <h1>[Getting Started]</h1>
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href=""></a></li>
+        <li>Clone our respository <a href="https://github.com/naushadcom/Groww-Clone"></a></li>
         <li>Open our code in VS code</li>
         <li>Open 'index.html' with Live server</li>
         <li>Initialize the server by writing 'npm run start' on Terminal</li>
